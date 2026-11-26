@@ -12,3 +12,6 @@ wheels/
 # Ignore all files in the epoched data subdirectory
 epoched_data/*
 results/*
+
+# Ignore test files
+mini_data.ipynb
